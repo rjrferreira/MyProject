@@ -1,0 +1,7 @@
+# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem 'rails', '4.0.8'
+
+#andre
+gem "doorkeeper", "~>1.4.0"
+gem "mongoid"
+gem 'protected_attributes', '~> 1.0.8'
