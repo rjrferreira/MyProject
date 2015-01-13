@@ -12,3 +12,7 @@ jruby-1.7.18
 * Operating System
 
 Windows 8.1
+
+* Server
+
+Webrick
